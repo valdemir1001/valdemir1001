@@ -1,10 +1,6 @@
 Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
 
 <h3>Sou estudadnte de Engenharia de Software pela Universidade de Vassouras</h3>
-
-
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
- 
  
   ### Tech & Tools Preference
 
@@ -23,14 +19,14 @@ Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
-      <a href="">
+      <a href="valdemir1001">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
+        <strong>Visite meu GITHUB </strong>
     </td>
   </tr>
 </table>
