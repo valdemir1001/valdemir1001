@@ -3,7 +3,7 @@ Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
 <h3>Sou estudadnte de Engenharia de Software pela Universidade de Vassouras</h3>
 
 
-
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
  
  
   ### Tech & Tools Preference
@@ -20,10 +20,10 @@ Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
  <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
-      <a href="https://benyou.me">
+      <a href="">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
