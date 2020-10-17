@@ -1,8 +1,7 @@
 
 
-**valdemir1001/valdemir1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My Name Valdemir Vieira Alves
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
