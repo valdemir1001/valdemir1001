@@ -1,5 +1,7 @@
 Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
 
+<h3>Sou estudadnte de Engenharia de Software pela Universidade de Vassouras</h3>
+
 
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
  
@@ -15,9 +17,25 @@ Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
- 
+ <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
+    </td>
+    <td align="center">
+      <a href="https://benyou.me">
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <br>
+        <strong>Visit my personal website </strong>
+    </td>
+  </tr>
+</table>
 
-Sou estudadnte de Engenharia de Software pela Universidade de Vassouras
+
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
