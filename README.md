@@ -57,3 +57,7 @@
   </tr>
 </table>
 
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=valdemir1001" id="counter">
+</p>
+⭐️ From [Valdemir Alves](https://github.com/valdemir1001)
