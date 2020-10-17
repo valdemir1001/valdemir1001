@@ -1,8 +1,7 @@
-Olá, meu nome é
-<h1>VALDEMIR VIEIRA ALVES</h1>
+Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
 
 
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
  
  
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
