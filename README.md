@@ -3,7 +3,7 @@
  <h1> VALDEMIR VIEIRA ALVES</h1></strong></font>
 
 
-<h3>Sou estudadate de Engenharia de Software pela Universidade de Vassouras</h3>
+<h2>Sou estudante de Engenharia de Software pela Universidade de Vassouras</h2>
 
 ![Valdemir1001 Github Stats](https://github-readme-stats.vercel.app/api?username=valdemir1001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
