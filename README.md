@@ -1,12 +1,7 @@
 
 <strong>Olá, eu sou <font color="red">
  <h1> VALDEMIR VIEIRA ALVES</h1></strong></font>
-diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+https://placehold.it/150/ffffff/ff0000?text=hello
 
 <h3>Sou estudadnte de Engenharia de Software pela Universidade de Vassouras</h3>
 
