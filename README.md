@@ -34,12 +34,4 @@ Olá, eu sou <h1><>VALDEMIR VIEIRA ALVES</></h1>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
-</p>
 
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
