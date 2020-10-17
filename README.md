@@ -20,7 +20,7 @@ Olá, eu sou <h1>VALDEMIR VIEIRA ALVES</h1>
  <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
+      <img align="left" src="" />
     </td>
     <td align="center">
       <a href="https://benyou.me">
