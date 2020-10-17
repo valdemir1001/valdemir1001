@@ -1,4 +1,4 @@
-bory{ background: red;
+*bory{ background: red;
 Olá, eu sou <h1><>VALDEMIR VIEIRA ALVES</></h1>
 
 <h3>Sou estudadnte de Engenharia de Software pela Universidade de Vassouras</h3>
