@@ -1,5 +1,5 @@
 
-Olá, eu sou <h1> </> VALDEMIR VIEIRA ALVES</h1>
+<strong>Olá, eu sou <h1> </> VALDEMIR VIEIRA ALVES</h1></strong>
 
 <h3>Sou estudadnte de Engenharia de Software pela Universidade de Vassouras</h3>
 
